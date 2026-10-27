@@ -1,4 +1,4 @@
-Month_End_Date,A_Policy_Rate,A_CPI,A_Industrial_Production,A_Geopolitical_Risk,B_OPEC_Supply,B_NonOPEC_Supply,B_OECD_Demand,B_Inventories,WTI_Crude,Brent_Crude,SP500,Energy_ETF,VIX,USD_Index,Treasury_10Y
+Month_End_Date,A_Policy_Rate,A_CPI,A_Industrial_Production,A_Geopolitical_Risk,B_OPEC_Supply,B_NonOPEC_Supply,B_OECD_Demand,B_Inventories,WTI_Crude,Brent_Crude,SP500,Energy_ETF,VIX,USD_Index,Treasury_10Y,,
 2010-01-29,0.110,212.81,89.34,91.58,"28,653.38","45,392.16","45,606.76","4,260.21",72.89,71.46,"1,073.87",15.79,24.62,79.46,3.609,,
 2010-02-26,0.130,209.62,89.68,80.73,"28,731.01","45,629.28","47,668.92","4,245.70",79.66,77.59,"1,104.49",16.27,19.50,80.36,3.595,,
 2010-03-31,0.160,209.33,90.29,74.12,"28,645.22","45,961.53","47,458.89","4,228.91",83.76,82.70,"1,169.43",16.73,17.59,81.07,3.833,,
